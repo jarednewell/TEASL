@@ -6,6 +6,7 @@ TEASL’s transformational algorithm constructs a ternary tree search index from
 
 TEASL is suitable for a distributed client–server model which is blockchain. In this distributed configuration, index traversal occurs in two steps: First, the local ternary tree in the TEASL index is accessed on the client device, thus reducing the search space size. Second, data is retrieved from the blockchain server via the EASL index, refined by the results of the ternary tree. Resulting in a reduced cost for data retrieval via the network. The TEASL construction algorithm allows the granularity of the ternary tree to be increased or reduced, allowing a trade-off between TEASL’s query performance times and the storage performance. This enables this indexing technique to be adapted to different resource-constrained client devices, such as IoT hardware types.
 
+### TEASL index construction from the skip list to the ternary tree as 5 steps.
 ![TEASL index construction from the skip list to the ternary tree as 5 steps.](https://ars.els-cdn.com/content/image/1-s2.0-S0020025525009636-gr6_lrg.jpg)
 
 
