@@ -12,7 +12,7 @@ https://ars.els-cdn.com/content/image/1-s2.0-S0020025525009636-gr6_lrg.jpg
 ## The Node Construction Algorithm
 The algorithm and the supporting structure included in this repository is written in C++, all definitions and the implementation of TEASL is included in the following article:
 
-https://doi.org/10.1016/j.ins.2025.122827
+![TEASL index construction from the skip list to the ternary tree as 5 steps.](https://doi.org/10.1016/j.ins.2025.122827)
 
 ## Reference
 If you intend on using TEASL and this repository we request you reference using the following:
