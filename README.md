@@ -13,12 +13,18 @@ If you intend on using TEASL and this repository we request you reference using 
 
 Harvard
 ```
-
+Newell, J., Rehman, S. ur, Mamun, Q. and Islam, M.Z. (2026)
+‘Ternary tree enhanced append-only skip list: A high-performance blockchain data search index’,
+Information Sciences, 730, p. 122827.
+doi: https://doi.org/10.1016/j.ins.2025.122827.
 ```
 
 APA
 ```
-
+Newell, J., Rehman, S. u., Mamun, Q., & Islam, M. Z. (2026).
+Ternary tree enhanced append-only skip list: A high-performance blockchain data search index.
+Information Sciences, 730, 122827.
+https://doi.org/10.1016/j.ins.2025.122827
 ```
 
 BibTeX
